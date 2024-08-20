@@ -1,0 +1,4 @@
+#includ<iostream>
+
+using namspace std:
+
